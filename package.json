@@ -1,0 +1,60 @@
+{
+  "name": "upskill-frontend",
+  "version": "1.0.0",
+  "description": "Frontend application for the UpSkill e-learning platform, providing a responsive interface for users to access courses, projects, and learning paths.",
+  "author": "UpSkill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Massioui/upskills-frontend.git"
+  },
+  "keywords": [
+    "software engineering courses",
+    "learn coding online",
+    "e-learning platform",
+    "programming tutorials",
+    "web development courses",
+    "online coding classes",
+    "full stack development",
+    "frontend development",
+    "backend development",
+    "angular tutorials",
+    "upskill programming",
+    "software development training",
+    "devops courses",
+    "online education for developers"
+  ],
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^18.2.0",
+    "@angular/common": "^18.2.0",
+    "@angular/compiler": "^18.2.0",
+    "@angular/core": "^18.2.0",
+    "@angular/forms": "^18.2.0",
+    "@angular/platform-browser": "^18.2.0",
+    "@angular/platform-browser-dynamic": "^18.2.0",
+    "@angular/router": "^18.2.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.10"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^18.2.10",
+    "@angular/cli": "^18.2.10",
+    "@angular/compiler-cli": "^18.2.0",
+    "@types/jasmine": "~5.1.0",
+    "jasmine-core": "~5.2.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "typescript": "~5.5.2"
+  }
+}
