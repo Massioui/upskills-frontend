@@ -1,0 +1,22 @@
+# Ignore Angular build artifacts
+dist/
+node_modules/
+
+# Ignore environment files
+src/environments/
+
+# Ignore compiled JavaScript/TypeScript files
+*.min.js
+*.min.css
+*.js
+*.d.ts
+
+# Ignore specific configuration files
+package-lock.json
+yarn.lock
+coverage/
+.tmp/
+out/
+
+# Ignore Git files
+.git/
